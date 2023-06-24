@@ -1,16 +1,13 @@
-# horiseon-refacto-challenge
-Refactor of a demo SEO site
-Description
-What was your motivation? To learn as much as possible
-Why did you build this project? To learn to program
-What problem does it solve? Beginner issues in Full stack
-What did you learn?  Difference between HTML, JS, and CSS
+# horiseon-refactor-challenge
+
+## Description
+In this project, I completed the refactoring of a demo SEO site. 
 
 Installation
 N/A
 
-Usage
-To use this Prework Study Guide, you can review the notes in each section. For suggestions on what to study first, open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser. There you will see a list of topics we learned from the prework along with a suggestion on which topic to study first.
+## Usage
+To use this demo SEO site, you can click three seperate links that take you to specified areas of the website. These links include "Search Engine Optomization", "Online Reputation Management", and "Social Media Marketing".
 
 Credits
 N/A
